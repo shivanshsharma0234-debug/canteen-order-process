@@ -1,0 +1,6 @@
+Process Step,Avg Wait (min),Frequency,Issue Observed,Improvement Opportunity,Priority
+Place Order,3.5,High,Long queue,Self-service/structured order,High
+Write Order,2.0,High,Order errors,Digital order capture,High
+Submit to Counter,1.5,High,Repeated communication,Direct submission,Medium
+Food Preparation,12.0,Medium,Peak-hour delay,Queue visibility,High
+Collection,2.5,Medium,No status notification,Ready notification,High
